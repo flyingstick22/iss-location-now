@@ -5,5 +5,5 @@ The aim of this python code was to test how easy it is to create web app by usin
 
 This web app was deployed by using Heroku: https://isslocationnow.herokuapp.com
 
-<img src="/images/10.10.2022 screen1.png" width="500">
-<img src="/images/10.10.2022 screen2.png">
+<img src="/images/10.10.2022 screen1.png" width="600">
+<img src="/images/10.10.2022 screen2.png" width="600">
