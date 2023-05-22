@@ -6,7 +6,7 @@ import json
 
 def app():
 
-    #colleting data from API's and place them in variables
+    #colleting data from API's
     iss_location = requests.get("https://api.wheretheiss.at/v1/satellites/25544")
     astronauts_in_iss = requests.get("http://api.open-notify.org/astros.json")
     location  = iss_location.json()
